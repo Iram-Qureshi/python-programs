@@ -14,15 +14,6 @@ A brief description of your project.
 ## Introduction
 
 Briefly introduce your project. What problem does it solve? What is its purpose? Mention any technologies or libraries it utilizes.
-
-## Features
-
-List the key features of your project.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
 ## Installation
 
 Provide instructions on how to install and set up your project. Include any dependencies that need to be installed.
